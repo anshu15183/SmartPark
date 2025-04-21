@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "website.smartpark.twa",
+      "sha256_cert_fingerprints": ["06:69:32:A6:4F:1E:32:4D:D6:AB:D5:56:2F:61:39:23:F6:A2:C7:E5:AA:78:8F:5D:69:B5:14:54:46:57:63:5A"]
+    }
+  }
+]
+
