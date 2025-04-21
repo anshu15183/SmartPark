@@ -215,17 +215,7 @@ az container create --resource-group myResourceGroup --name smartpark \
 1. Access the entry kiosk at `http://localhost:5000/kiosk/entry`
 2. Access the exit kiosk at `http://localhost:5000/kiosk/exit`
 
-## Simulation Features
 
-### Barrier Gate Simulation
-- View real-time barrier gate animations at `/barrier-gates`
-- Each user has their own simulation view at `/barrier-gates/:userId`
-- The barriers respond to scan events from the kiosks
-
-### Payment Simulation
-- The app uses a mock payment system
-- Wallet funds can be added via the Dashboard's wallet card
-- Dues can be paid using wallet funds
 
 ## License
 
